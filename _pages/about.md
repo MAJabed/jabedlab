@@ -57,7 +57,7 @@ redirect_from:
 
   <div class="container">
     <div class="left-column">
-      <img src="Jabed_Mohammed.jpg" width="200" height="200" alt="Dr. Jabed"></img>
+      <img src="images/Jabed_Mohammed.jpg" width="200" height="200" alt="Dr. Jabed"></img>
     </div>
     <div class="right-column">
       <p class="name">Mohammed A. Jabed, Ph.D.</p>
