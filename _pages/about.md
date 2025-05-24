@@ -6,11 +6,61 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 ------
-|       |       |
-|---:   |  :--- |
-|![head shoot](images/Jabed_Mohammed.jpg "Dr. Jabed")| Mohammed A. Jabed, Ph.D. <br>Department of Chemistry<br>University of the District of Columbia<br>Washington, DC-20002<br>Office: Building 44, Suit 203-04<br>Email: mohammed.jabed@udc.edu|
-|  |  | 
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Two Column Layout</title>
+  <style>
+    .container {
+      display: flex;
+      width: 100%;
+      max-width: 800px;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+    }
+
+    .left-column,
+    .right-column {
+      flex: 1;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+
+    .left-column {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background-color: #f4f4f4;
+    }
+
+    .left-column img {
+      max-width: 100%;
+      height: auto;
+      object-fit: cover;
+    }
+
+    .right-column {
+      background-color: #e8f0fe;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <div class="left-column">
+      <img src="https://via.placeholder.com/300x200" alt="Sample Image">
+    </div>
+    <div class="right-column">
+      <p>This is a line of text.</p>
+      <p>Here is another line of content in the right column.</p>
+      <p>Additional lines will adjust the height, keeping both columns equal.</p>
+      <p>Flexbox ensures both sides stretch to match the tallest content.</p>
+    </div>
+  </div>
+  
 ------
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
