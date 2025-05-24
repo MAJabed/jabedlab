@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 ------
-|![Alt text](/images/Jabed_Mohammed.jpg)|Mohammed A. Jabed, Ph.D. <br>Department of Chemistry<br>University of the District of Columbia<br>Washington, DC-20002<br>Office: Building 44, Suit 203-04<br>Email: mohammed.jabed@udc.edu|
-
+|       |       |
+|---:   |  :--- |
+|![head shoot](images/Jabed_Mohammed.jpg "Dr. Jabed")|Mohammed A. Jabed, Ph.D. <br>Department of Chemistry<br>University of the District of Columbia<br>Washington, DC-20002<br>Office: Building 44, Suit 203-04<br>Email: mohammed.jabed@udc.edu|
+|  |  | 
 ------
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
