@@ -25,15 +25,17 @@ redirect_from:
     .left-column,
     .right-column {
       flex: 1;
+      vertical-align: top;
       padding: 20px;
+      line-height: 0.4;
       box-sizing: border-box;
     }
 
     .left-column {
       display: flex;
-      align-items: center;
-      justify-content: center;
-      background-color: #f4f4f4;
+      align-items: right; #center;
+      justify-content: right; #center;
+      background-color: #fafbfc;
     }
 
     .left-column img {
@@ -41,7 +43,11 @@ redirect_from:
       height: auto;
       object-fit: cover;
     }
-
+    
+    .name {
+      font-size: 24px;
+      font-weight: bold;
+    }
     .right-column {
       background-color: #fafbfc;
     }
@@ -51,14 +57,15 @@ redirect_from:
 
   <div class="container">
     <div class="left-column">
-      <img src="images/Jabed_Mohammed.jpg/300x200" alt="Dr. Jabed">
+      <img src="Jabed_Mohammed.jpg" width="200" height="200" alt="Dr. Jabed"></img>
     </div>
     <div class="right-column">
-      <p>Dr. Mohammed A. Jabed</p>
+      <p class="name">Mohammed A. Jabed, Ph.D.</p>
       <p>Assistant Professor</p>
       <p>Department of Chemistry</p>
       <p>University of the District of Columbia</p>
       <p>Washington, DC-20002</p>
+      <br><br><br><br>
       <p>Email: mohammed.jabed@udc.edu</p>
       <p>Office: Building 44, Room: 203, Suite: 04</p>
     </div>
