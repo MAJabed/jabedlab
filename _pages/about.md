@@ -19,7 +19,7 @@ redirect_from:
       width: 100%;
       max-width: 800px;
       margin: 0 auto;
-      border: 1px solid #ccc;
+      border: none #1px solid #ccc;
     }
 
     .left-column,
@@ -43,7 +43,7 @@ redirect_from:
     }
 
     .right-column {
-      background-color: #e8f0fe;
+      background-color: #fafbfc;
     }
   </style>
 </head>
@@ -51,16 +51,19 @@ redirect_from:
 
   <div class="container">
     <div class="left-column">
-      <img src="https://via.placeholder.com/300x200" alt="Sample Image">
+      <img src="images/Jabed_Mohammed.jpg/300x200" alt="Dr. Jabed">
     </div>
     <div class="right-column">
-      <p>This is a line of text.</p>
-      <p>Here is another line of content in the right column.</p>
-      <p>Additional lines will adjust the height, keeping both columns equal.</p>
-      <p>Flexbox ensures both sides stretch to match the tallest content.</p>
+      <p>Dr. Mohammed A. Jabed</p>
+      <p>Assistant Professor</p>
+      <p>Department of Chemistry</p>
+      <p>University of the District of Columbia</p>
+      <p>Washington, DC-20002</p>
+      <p>Email: mohammed.jabed@udc.edu</p>
+      <p>Office: Building 44, Room: 203, Suite: 04</p>
     </div>
   </div>
-  
+</body>
 ------
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
