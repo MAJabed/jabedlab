@@ -5,7 +5,7 @@ collection: publications
 category: manuscriptstitle
 permalink: https://doi.org/10.1021/acs.jpca.0c06974
 date: 2020-10-29
-vanue: The Journal of Physical Chemistry A
+venue: The Journal of Physical Chemistry A
 paperurl: 'https://majabed.github.io/jabedlab/files/paper8.pdf'
 citation: 'Jabed, Mohammed A.;Dandu, Naveen;Tretiak, Sergei;Kilina, Svetlana Passivating Nucleobases Bring Charge Transfer Character to Optically Active Transitions in Small Silver Nanoclusters. <i>The Journal of Physical Chemistry A<\i> 2020, 124(43),8931-8942. DOI:10.1021/acs.jpca.0c06974.'
 ---

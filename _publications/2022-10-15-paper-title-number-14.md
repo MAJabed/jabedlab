@@ -5,7 +5,7 @@ collection: publications
 category: manuscriptstitle
 permalink: https://www.sciencedirect.com/science/article/pii/S1385894722024597
 date: 2022-10-15
-vanue: 
+venue: 
 paperurl: 'https://majabed.github.io/jabedlab/files/paper14.pdf'
 citation: 'Kim, Yeonjoon;Jabed, Mohammed A.;Price, David M.;Kilin, Dmitri;Kim, Seonah Toward rational design of supported vanadia catalysts of lignin conversion to phenol. <i><\i> 2022, 446(),136965-. DOI:https://doi.org/10.1016/j.cej.2022.136965.'
 ---

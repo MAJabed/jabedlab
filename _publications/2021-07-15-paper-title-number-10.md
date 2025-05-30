@@ -5,7 +5,7 @@ collection: publications
 category: manuscriptstitle
 permalink: https://doi.org/10.1021/acs.jpcc.1c03012
 date: 2021-07-15
-vanue: The Journal of Physical Chemistry C
+venue: The Journal of Physical Chemistry C
 paperurl: 'https://majabed.github.io/jabedlab/files/paper10.pdf'
 citation: 'Jabed, Mohammed A.;Zhao, Julia;Kilin, Dmitri;Yu, Tao DFT. <i>The Journal of Physical Chemistry C<\i> 2021, 125(27),14979-14990. DOI:10.1021/acs.jpcc.1c03012.'
 ---

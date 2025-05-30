@@ -21,13 +21,18 @@ allfiles = glob("RIS/*.ris")
         
 
 for file in allfiles: 
-    f = open(file,'r').readlines() 
+    f = open(file,'r',errors="ignore").readlines() 
     
     name = int(os.path.splitext(os.path.basename(file))[0])+1
     print(name)
     
     date = get_value(f, 'DA') [0]
-    year,month,day=date.split('/')
+    if date !='': 
+        year,month,day=date.split('/')
+    else: 
+        year = get_value(f,'Y1')
+        month = '01'
+        day = '01'
     fout = f"{year}-{month}-{day}-paper-title-number-{name}.md" 
     
     
@@ -42,14 +47,14 @@ for file in allfiles:
          url = get_value(f,'UR')[0] 
          ff.write(f"permalink: {url}\n")
          
-         date = get_value(f, 'DA') [0]
-         year,month,day=date.split('/')
+  
+         
          ff.write(f"date: {year}-{month}-{day}\n")
         
          vanue = get_value(f,'JF')[0]
          if vanue == "": 
              vanue = get_value(f,'T2') [0]
-         ff.write(f"vanue: {vanue}\n")
+         ff.write(f"venue: {vanue}\n")
          
          page_i = get_value(f,'SP')[0] 
          page_f = get_value(f,'EP') [0]
@@ -65,7 +70,7 @@ for file in allfiles:
          
          abstract = get_value(f,'AB')[0] 
          if abstract =='': 
-             abstract = get_value(f,'N2')
+             abstract = get_value(f,'N2')[0]
 
          ff.write(abstract)
          ff.write('\n')  

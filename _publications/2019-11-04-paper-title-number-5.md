@@ -5,7 +5,7 @@ collection: publications
 category: manuscriptstitle
 permalink: https://doi.org/10.1021/acs.inorgchem.9b01678
 date: 2019-11-04
-vanue: Inorganic Chemistry
+venue: Inorganic Chemistry
 paperurl: 'https://majabed.github.io/jabedlab/files/paper5.pdf'
 citation: 'Liu, Bingqing;Jabed, Mohammed A.;Guo, Jiali;Xu, Wan;Brown, Samuel L.;Ugrinov, Angel;Hobbie, Erik K.;Kilina, Svetlana;Qin, Anjun;Sun, Wenfang Performance Yellow OLED Application. <i>Inorganic Chemistry<\i> 2019, 58(21),14377-14388. DOI:10.1021/acs.inorgchem.9b01678.'
 ---
