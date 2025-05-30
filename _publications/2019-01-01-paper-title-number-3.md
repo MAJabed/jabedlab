@@ -1,11 +1,11 @@
 ---
-title: ""
+title: "Phonon-Mediated Ultrafast Hole Transfer from Photoexcited CdSe Quantum Dots to Black Dye"
 authors: "Cui, Peng;Jabed, Mohammed;Vogel, Dayton J.;Kilina, Svetlana"
 collection: publications
 category: manuscripts
 permalink: https://doi.org/10.1021/bk-2019-1331.ch006
 date: 2019-01-01
-venue: Computational Photocatalysis: Modeling of Photophysics and Photochemistry at Interfaces
+venue: "Computational Photocatalysis Modeling of Photophysics and Photochemistry at Interfaces"
 paperurl: 'https://majabed.github.io/jabedlab/files/paper3.pdf'
 citation: 'Cui, Peng;Jabed, Mohammed;Vogel, Dayton J.;Kilina, Svetlana . <i>Computational Photocatalysis: Modeling of Photophysics and Photochemistry at Interfaces<\i> 2019, 1331(),137-156-. DOI:doi:10.1021/bk-2019-1331.ch006.'
 ---
