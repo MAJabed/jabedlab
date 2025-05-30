@@ -4,7 +4,7 @@ authors: "Liu, Bingqing, Yang, Xin, Jabed, Mohammed, Kilina, Svetlana, Yang, Zhe
 collection: publications
 category: manuscripts
 permalink: http://dx.doi.org/10.1039/D2DT02104H
-date: ['2022']-01-01
+date: 2022-01-01
 venue: Dalton Transactions
 paperurl: 'https://majabed.github.io/jabedlab/files/paper11.pdf'
 citation: ' Water-soluble dinuclear iridium(iii) and ruthenium(ii) bis-terdentate complexes: photophysics and electrochemiluminescence. <i>Dalton Transactions<\i> ['2022'], 51(36),13858-13866. DOI:10.1039/D2DT02104H.'

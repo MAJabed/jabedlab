@@ -1,6 +1,6 @@
 ---
 title: "Neutral iridium(iii) complexes bearing BODIPY-substituted N-heterocyclic carbene (NHC) ligands: synthesis, photophysics, in vitro theranostic photodynamic therapy, and antimicrobial activity"
-authors: " Liu, Bingqing, Monro, Susan, Jabed, Mohammed A., Cameron, Colin G., Colón, Katsuya L., Xu, Wan, Kilina, Svetlana, McFarland, Sherri A., Sun, Wenfang"
+authors: "Liu, Bingqing, Monro, Susan, Jabed, Mohammed A., Cameron, Colin G., Colón, Katsuya L., Xu, Wan, Kilina, Svetlana, McFarland, Sherri A., Sun, Wenfang"
 collection: publications
 category: manuscripts
 permalink: http://dx.doi.org/10.1039/C9PP00142E
