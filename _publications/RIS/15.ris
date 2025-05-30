@@ -1,0 +1,35 @@
+
+
+
+
+TY  - JOUR
+T1  - 13C Electron Nuclear Double Resonance Spectroscopy-Guided Molecular Dynamics Computations Reveal the Structure of the Enzyme–Substrate Complex of an Active, N-Linked Glycosylated Lipoxygenase
+AU  - Sharma, Ajay
+AU  - Whittington, Chris
+AU  - Jabed, Mohammed
+AU  - Hill, S. Gage
+AU  - Kostenko, Anastasiia
+AU  - Yu, Tao
+AU  - Li, Pengfei
+AU  - Doan, Peter E.
+AU  - Hoffman, Brian M.
+AU  - Offenbacher, Adam R.
+Y1  - 2023/05/16
+PY  - 2023
+DA  - 2023/05/16
+N1  - doi: 10.1021/acs.biochem.3c00119
+DO  - 10.1021/acs.biochem.3c00119
+T2  - Biochemistry
+JF  - Biochemistry
+JO  - Biochemistry
+SP  - 1531
+EP  - 1543
+VL  - 62
+IS  - 10
+PB  - American Chemical Society
+N2  - Lipoxygenase (LOX) enzymes produce important cell-signaling mediators, yet attempts to capture and characterize LOX–substrate complexes by X-ray co-crystallography are commonly unsuccessful, requiring development of alternative structural methods. We previously reported the structure of the complex of soybean lipoxygenase, SLO, with substrate linoleic acid (LA), as visualized through the integration of 13C/1H electron nuclear double resonance (ENDOR) spectroscopy and molecular dynamics (MD) computations. However, this required substitution of the catalytic mononuclear, nonheme iron by the structurally faithful, yet inactive Mn2+ ion as a spin probe. Unlike canonical Fe-LOXs from plants and animals, LOXs from pathogenic fungi contain active mononuclear Mn2+ metallocenters. Here, we report the ground-state active-site structure of the native, fully glycosylated fungal LOX from rice blast pathogen Magnaporthe oryzae, MoLOX complexed with LA, as obtained through the 13C/1H ENDOR-guided MD approach. The catalytically important distance between the hydrogen donor, carbon-11 (C11), and the acceptor, Mn-bound oxygen, (donor–acceptor distance, DAD) for the MoLOX–LA complex derived in this fashion is 3.4 ± 0.1 Å. The difference of the MoLOX–LA DAD from that of the SLO–LA complex, 3.1 ± 0.1 Å, is functionally important, although is only 0.3 Å, despite the MoLOX complex having a Mn–C11 distance of 5.4 Å and a “carboxylate-out” substrate-binding orientation, whereas the SLO complex has a 4.9 Å Mn–C11 distance and a “carboxylate-in” substrate orientation. The results provide structural insights into reactivity differences across the LOX family, give a foundation for guiding development of MoLOX inhibitors, and highlight the robustness of the ENDOR-guided MD approach to describe LOX–substrate structures.
+AB  - Lipoxygenase (LOX) enzymes produce important cell-signaling mediators, yet attempts to capture and characterize LOX–substrate complexes by X-ray co-crystallography are commonly unsuccessful, requiring development of alternative structural methods. We previously reported the structure of the complex of soybean lipoxygenase, SLO, with substrate linoleic acid (LA), as visualized through the integration of 13C/1H electron nuclear double resonance (ENDOR) spectroscopy and molecular dynamics (MD) computations. However, this required substitution of the catalytic mononuclear, nonheme iron by the structurally faithful, yet inactive Mn2+ ion as a spin probe. Unlike canonical Fe-LOXs from plants and animals, LOXs from pathogenic fungi contain active mononuclear Mn2+ metallocenters. Here, we report the ground-state active-site structure of the native, fully glycosylated fungal LOX from rice blast pathogen Magnaporthe oryzae, MoLOX complexed with LA, as obtained through the 13C/1H ENDOR-guided MD approach. The catalytically important distance between the hydrogen donor, carbon-11 (C11), and the acceptor, Mn-bound oxygen, (donor–acceptor distance, DAD) for the MoLOX–LA complex derived in this fashion is 3.4 ± 0.1 Å. The difference of the MoLOX–LA DAD from that of the SLO–LA complex, 3.1 ± 0.1 Å, is functionally important, although is only 0.3 Å, despite the MoLOX complex having a Mn–C11 distance of 5.4 Å and a “carboxylate-out” substrate-binding orientation, whereas the SLO complex has a 4.9 Å Mn–C11 distance and a “carboxylate-in” substrate orientation. The results provide structural insights into reactivity differences across the LOX family, give a foundation for guiding development of MoLOX inhibitors, and highlight the robustness of the ENDOR-guided MD approach to describe LOX–substrate structures.
+SN  - 0006-2960
+M3  - doi: 10.1021/acs.biochem.3c00119
+UR  - https://doi.org/10.1021/acs.biochem.3c00119
+ER  - 
