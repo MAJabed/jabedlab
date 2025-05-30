@@ -1,5 +1,6 @@
 import os 
 from glob import glob 
+import re  
 
 def tag(line): 
     return line.split()[0].strip() 
@@ -12,7 +13,7 @@ def get_value(file,TAG):
         if len(line.strip())==0: 
             continue 
         elif line.split()[0].strip()==TAG: 
-            AA.append(line.split('-')[-1].strip())
+            AA.append( re.findall(r'-(.*)',line)[0].strip()) 
     if len(AA)!=0: 
         return AA
     else:return  [''] 
@@ -43,7 +44,7 @@ for file in allfiles:
          authors = get_value(f,'AU') 
          aut_names = ";".join(authors) 
          ff.write(f"authors: \"{aut_names}\"\n") 
-         ff.write(f"collection: publications\ncategory: manuscriptstitle\n")
+         ff.write(f"collection: publications\ncategory: manuscripts\n")
          url = get_value(f,'UR')[0] 
          ff.write(f"permalink: {url}\n")
          
@@ -72,6 +73,7 @@ for file in allfiles:
          if abstract =='': 
              abstract = get_value(f,'N2')[0]
 
+         ff.write('\n') 
          ff.write(abstract)
          ff.write('\n')  
         
