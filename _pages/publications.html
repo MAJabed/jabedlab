@@ -21,10 +21,10 @@ author_profile: true
         {% continue %}
       {% endif %}
       {% unless title_shown %}
-        <h3>{{ category[1].title }}</h3><hr />
+        <h2>{{ category[1].title }}</h2><hr />
         {% assign title_shown = true %}
       {% endunless %}
-      <li>{% include archive-single_publication.html %}</li>
+      <li>{% include archive-single.html %}</li>
     {% endfor %}
   {% endfor %}
 {% else %}
