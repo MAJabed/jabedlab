@@ -3,10 +3,10 @@ title: "Understanding of Light Absorption Properties of the N-Doped Graphene Oxi
 authors: "Jabed, Mohammed A.;Zhao, Julia;Kilin, Dmitri;Yu, Tao"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1021/acs.jpcc.1c03012
+permalink: /publication/2021-07-15-paper-title-number-10 
 date: 2021-07-15
 venue: The Journal of Physical Chemistry C
-paperurl: 'https://majabed.github.io/jabedlab/files/paper10.pdf'
+paperurl: 'https://doi.org/10.1021/acs.jpcc.1c03012' 
 citation: 'Jabed, Mohammed A.;Zhao, Julia;Kilin, Dmitri;Yu, Tao Understanding of Light Absorption Properties of the N-Doped Graphene Oxide Quantum Dot with TD-DFT. <i>The Journal of Physical Chemistry C</i> 2021, 125(27),14979-14990. DOI:10.1021/acs.jpcc.1c03012.'
 ---
 

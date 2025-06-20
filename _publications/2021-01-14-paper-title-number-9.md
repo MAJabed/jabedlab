@@ -3,10 +3,10 @@ title: "Electron-Beam-Induced Molecular Plasmon Excitation and Energy Transfer i
 authors: "Yu, Tao;Lingerfelt, David;Jakowski, Jacek;Jabed, Mohammed A.;Ganesh, Panchapakesan;Sumpter, Bobby G."
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1021/acs.jpca.0c08314
+permalink: /publication/2021-01-14-paper-title-number-9 
 date: 2021-01-14
 venue: The Journal of Physical Chemistry A
-paperurl: 'https://majabed.github.io/jabedlab/files/paper9.pdf'
+paperurl: 'https://doi.org/10.1021/acs.jpca.0c08314' 
 citation: 'Yu, Tao;Lingerfelt, David;Jakowski, Jacek;Jabed, Mohammed A.;Ganesh, Panchapakesan;Sumpter, Bobby G. Electron-Beam-Induced Molecular Plasmon Excitation and Energy Transfer in Silver Molecular Nanowires. <i>The Journal of Physical Chemistry A</i> 2021, 125(1),74-87. DOI:10.1021/acs.jpca.0c08314.'
 ---
 

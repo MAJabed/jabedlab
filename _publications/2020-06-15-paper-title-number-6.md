@@ -3,10 +3,10 @@ title: "Synthesis, Photophysics, and Reverse Saturable Absorption of trans-Bis-c
 authors: "Liu, Bingqing;Jabed, Mohammed A.;Kilina, Svetlana;Sun, Wenfang"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1021/acs.inorgchem.0c00961
+permalink: /publication/2020-06-15-paper-title-number-6 
 date: 2020-06-15
 venue: Inorganic Chemistry
-paperurl: 'https://majabed.github.io/jabedlab/files/paper6.pdf'
+paperurl: 'https://doi.org/10.1021/acs.inorgchem.0c00961' 
 citation: 'Liu, Bingqing;Jabed, Mohammed A.;Kilina, Svetlana;Sun, Wenfang Synthesis, Photophysics, and Reverse Saturable Absorption of trans-Bis-cyclometalated Iridium(III) Complexes (C^N^C)Ir(R-tpy)+ (tpy = 2,2′:6′,2″-Terpyridine) with Broadband Excited-State Absorption. <i>Inorganic Chemistry</i> 2020, 59(12),8532-8542. DOI:10.1021/acs.inorgchem.0c00961.'
 ---
 

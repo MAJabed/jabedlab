@@ -3,10 +3,10 @@ title: "Photoluminescence of Cis-Polyacetylene Semiconductor Material"
 authors: "Keya, Kamrun N.;Jabed, Mohammed A.;Xia, Wenjie;Kilin, Dmitri"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.3390/app12062830
+permalink: /publication/2022-01-01-paper-title-number-13 
 date: 2022-01-01
 venue: Applied Sciences
-paperurl: 'https://majabed.github.io/jabedlab/files/paper13.pdf'
+paperurl: 'http://dx.doi.org/10.1039/D2DT02104H' 
 citation: 'Keya, Kamrun N.;Jabed, Mohammed A.;Xia, Wenjie;Kilin, Dmitri . <i>Applied Sciences</i> [''], 12(6),-. DOI:10.3390/app12062830.'
 ---
 

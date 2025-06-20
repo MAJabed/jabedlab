@@ -3,10 +3,10 @@ title: "Sooting tendencies of terpenes and hydrogenated terpenes as sustainable 
 authors: "Zhu, Junqing;Alegre-Requena, Juan V.;Cherry, Patrick;Curtis, Dominic;Harvey, Benjamin G.;Jabed, Mohammed A.;Kim, Seonah;McEnally, Charles S.;Pfefferle, Lisa D.;Woodroffe, Josanne-Dee"
 collection: publications
 category: manuscripts
-permalink: https://www.sciencedirect.com/science/article/pii/S1540748922001754
+permalink: /publication/2023-01-01-paper-title-number-15 
 date: 2023-01-01
 venue: 
-paperurl: 'https://majabed.github.io/jabedlab/files/paper15.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1540748922001754' 
 citation: 'Zhu, Junqing;Alegre-Requena, Juan V.;Cherry, Patrick;Curtis, Dominic;Harvey, Benjamin G.;Jabed, Mohammed A.;Kim, Seonah;McEnally, Charles S.;Pfefferle, Lisa D.;Woodroffe, Josanne-Dee Sooting tendencies of terpenes and hydrogenated terpenes as sustainable transportation biofuels. <i></i> 2023, 39(1),877-887. DOI:https://doi.org/10.1016/j.proci.2022.07.152.'
 ---
 

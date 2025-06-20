@@ -3,10 +3,10 @@ title: "13C Electron Nuclear Double Resonance Spectroscopy-Guided Molecular Dyna
 authors: "Sharma, Ajay;Whittington, Chris;Jabed, Mohammed;Hill, S. Gage;Kostenko, Anastasiia;Yu, Tao;Li, Pengfei;Doan, Peter E.;Hoffman, Brian M.;Offenbacher, Adam R."
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1021/acs.biochem.3c00119
+permalink: /publication/2023-05-16-paper-title-number-16 
 date: 2023-05-16
 venue: Biochemistry
-paperurl: 'https://majabed.github.io/jabedlab/files/paper16.pdf'
+paperurl: 'https://doi.org/10.1021/acs.biochem.3c00119' 
 citation: 'Sharma, Ajay;Whittington, Chris;Jabed, Mohammed;Hill, S. Gage;Kostenko, Anastasiia;Yu, Tao;Li, Pengfei;Doan, Peter E.;Hoffman, Brian M.;Offenbacher, Adam R. 13C Electron Nuclear Double Resonance Spectroscopy-Guided Molecular Dynamics Computations Reveal the Structure of the Enzyme–Substrate Complex of an Active, N-Linked Glycosylated Lipoxygenase. <i>Biochemistry</i> 2023, 62(10),1531-1543. DOI:10.1021/acs.biochem.3c00119.'
 ---
 

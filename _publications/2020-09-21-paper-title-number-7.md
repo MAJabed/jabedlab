@@ -3,10 +3,10 @@ title: "Lysosome Targeting Bis-terpyridine Ruthenium(II) Complexes: Photophysica
 authors: "Liu, Bingqing;Gao, Yibo;Jabed, Mohammed A.;Kilina, Svetlana;Liu, Guoquan;Sun, Wenfang"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1021/acsabm.0c00647
+permalink: /publication/2020-09-21-paper-title-number-7 
 date: 2020-09-21
 venue: ACS Applied Bio Materials
-paperurl: 'https://majabed.github.io/jabedlab/files/paper7.pdf'
+paperurl: 'https://doi.org/10.1021/acsabm.0c00647' 
 citation: 'Liu, Bingqing;Gao, Yibo;Jabed, Mohammed A.;Kilina, Svetlana;Liu, Guoquan;Sun, Wenfang Lysosome Targeting Bis-terpyridine Ruthenium(II) Complexes: Photophysical Properties and In Vitro Photodynamic Therapy. <i>ACS Applied Bio Materials</i> 2020, 3(9),6025-6038. DOI:10.1021/acsabm.0c00647.'
 ---
 

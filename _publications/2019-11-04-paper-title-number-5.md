@@ -3,10 +3,10 @@ title: "Neutral Cyclometalated Iridium(III) Complexes Bearing Substituted N-Hete
 authors: "Liu, Bingqing;Jabed, Mohammed A.;Guo, Jiali;Xu, Wan;Brown, Samuel L.;Ugrinov, Angel;Hobbie, Erik K.;Kilina, Svetlana;Qin, Anjun;Sun, Wenfang"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1021/acs.inorgchem.9b01678
+permalink: /publication/2019-11-04-paper-title-number-5 
 date: 2019-11-04
 venue: Inorganic Chemistry
-paperurl: 'https://majabed.github.io/jabedlab/files/paper5.pdf'
+paperurl: 'https://doi.org/10.1021/acs.inorgchem.9b01678' 
 citation: 'Liu, Bingqing;Jabed, Mohammed A.;Guo, Jiali;Xu, Wan;Brown, Samuel L.;Ugrinov, Angel;Hobbie, Erik K.;Kilina, Svetlana;Qin, Anjun;Sun, Wenfang Neutral Cyclometalated Iridium(III) Complexes Bearing Substituted N-Heterocyclic Carbene (NHC) Ligands for High-Performance Yellow OLED Application. <i>Inorganic Chemistry</i> 2019, 58(21),14377-14388. DOI:10.1021/acs.inorgchem.9b01678.'
 ---
 

@@ -3,10 +3,10 @@ title: "Passivating Nucleobases Bring Charge Transfer Character to Optically Act
 authors: "Jabed, Mohammed A.;Dandu, Naveen;Tretiak, Sergei;Kilina, Svetlana"
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1021/acs.jpca.0c06974
+permalink: /publication/2020-10-29-paper-title-number-8 
 date: 2020-10-29
 venue: The Journal of Physical Chemistry A
-paperurl: 'https://majabed.github.io/jabedlab/files/paper8.pdf'
+paperurl: 'https://doi.org/10.1021/acs.jpca.0c06974' 
 citation: 'Jabed, Mohammed A.;Dandu, Naveen;Tretiak, Sergei;Kilina, Svetlana Passivating Nucleobases Bring Charge Transfer Character to Optically Active Transitions in Small Silver Nanoclusters. <i>The Journal of Physical Chemistry A</i> 2020, 124(43),8931-8942. DOI:10.1021/acs.jpca.0c06974.'
 ---
 

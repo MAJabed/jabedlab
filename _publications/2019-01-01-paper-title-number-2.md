@@ -3,10 +3,10 @@ title: "Neutral iridium(iii) complexes bearing BODIPY-substituted N-heterocyclic
 authors: "Liu, Bingqing, Monro, Susan, Jabed, Mohammed A., Cameron, Colin G., Colón, Katsuya L., Xu, Wan, Kilina, Svetlana, McFarland, Sherri A., Sun, Wenfang"
 collection: publications
 category: manuscripts
-permalink: http://dx.doi.org/10.1039/C9PP00142E
+permalink: /publication/2019-01-01-paper-title-number-2 
 date: 2019-01-01
 venue: Photochemical & Photobiological Sciences
-paperurl: 'https://majabed.github.io/jabedlab/files/paper2.pdf'
+paperurl: 'http://dx.doi.org/10.1039/C9PP00142E' 
 citation: 'Neutral iridium(iii) complexes bearing BODIPY-substituted N-heterocyclic carbene (NHC) ligands: synthesis, photophysics, in vitro theranostic photodynamic therapy, and antimicrobial activity. <i>Photochemical & Photobiological Sciences</i> 2019, 18(10),2381-2396. DOI:10.1039/C9PP00142E.'
 ---
 

@@ -1,0 +1,12 @@
+---
+title: "Accelerating the Design of Cu(I) Complexes with Near-Infrared Absorption by Interpretable Machine Learning Approaches."
+authors: "Casanola-Martin, G.;Tiffany, G.;Eniodunmo, O.;Oas, T.;Jabed, M.;Sun, W.;Kilin, D.;Kilina, S.;Rasulev, B."
+collection: publications
+category: manuscripts
+permalink: /publication/2025-04-30-paper-title-number-18 
+date: 2025-04-30
+venue: "ACS Applied Bio Materials"
+paperurl: 'https://doi.org/10.26434/chemrxiv-2025-pcrnp' 
+citation: 'Casanola-Martin, G.;Tiffany, G.;Eniodunmo, O.;Oas, T.;Jabed, M.;Sun, W.;Kilin, D.;Kilina, S.;Rasulev, B. Accelerating the Design of Cu(I) Complexes with Near-Infrared Absorption by Interpretable Machine Learning Approaches.. <i></i> 2025, (),-. DOI:10.26434/chemrxiv-2025-pcrnp.'
+---
+Metal coordination complexes have emerged as promising molecules because of its interesting optical properties and among them the Cu(I) complexes are one of the most fascinating ones, because it’s combination of optical properties and sustainability at the same time. In this work we show for the first time a combination of quantum chemical and cheminformatics approaches to study the wavelength and oscillator strength as photoluminescence properties in a data set of Cu(I) complexes. As a result, machine learning-based Quantitative Structure-Property Relationship (ML/QSPR) model based on machine learning that can reliably predict the absorption wavelength and oscillator strength of Cu(I) complexes was successfully developed, laying the groundwork for high-throughput virtual screening of Cu(I) complexes optical properties. To explain the differences in absorption wavelengths and oscillator strength across structurally diverse individual Cu(I) complexes, the relation between the models and molecular descriptors was analyzed with patterns revealed positive contributing to the properties like polarizability effects, aliphatic chains connected to heteroatoms, and other with negative influence corresponding to symmetry factors, and molecular size and branching. The squared correlation coefficient values for training and validation were 0.82 and 0.85, respectively. In addition, the applicability domain demonstrated the reliability of the prediction of the obtained models. This combined quantum-chemical and cheminformatics strategy has great potential for rational design of novel Cu(I) complexes with desired optical properties. Furthermore, the described procedures might be applied to a wide variety of copper transition-metal complexes.

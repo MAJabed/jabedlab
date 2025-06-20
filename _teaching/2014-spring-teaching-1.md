@@ -1,11 +1,7 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: Physical Chemistry - I (CHEM 351)
+catalogue_url: "https://docs.udc.edu/catalog/2024-2026-UDC-Catalog.pdf"
+lecture_file: "/downloads/organic.zip"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

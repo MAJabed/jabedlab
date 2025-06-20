@@ -3,10 +3,10 @@ title: "Using Spectator Ligands to Enhance Nanocrystal-to-Molecule Electron Tran
 authors: "Raulerson, Emily K.;Cadena, Danielle M.;Jabed, Mohammed A.;Wight, Christopher D.;Lee, Inki;Wagner, Holden R.;Brewster, James T. II;Iverson, Brent L.;Kilina, Svetlana;Roberts, Sean T."
 collection: publications
 category: manuscripts
-permalink: https://doi.org/10.1021/acs.jpclett.1c03825
+permalink: /publication/2022-02-17-paper-title-number-12 
 date: 2022-02-17
 venue: The Journal of Physical Chemistry Letters
-paperurl: 'https://majabed.github.io/jabedlab/files/paper12.pdf'
+paperurl: 'https://doi.org/10.1021/acs.jpclett.1c03825' 
 citation: 'Raulerson, Emily K.;Cadena, Danielle M.;Jabed, Mohammed A.;Wight, Christopher D.;Lee, Inki;Wagner, Holden R.;Brewster, James T. II;Iverson, Brent L.;Kilina, Svetlana;Roberts, Sean T. Using Spectator Ligands to Enhance Nanocrystal-to-Molecule Electron Transfer. <i>The Journal of Physical Chemistry Letters</i> 2022, 13(6),1416-1423. DOI:10.1021/acs.jpclett.1c03825.'
 ---
 

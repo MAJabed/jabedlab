@@ -3,10 +3,10 @@ title: "Toward rational design of supported vanadia catalysts of lignin conversi
 authors: "Kim, Yeonjoon;Jabed, Mohammed A.;Price, David M.;Kilin, Dmitri;Kim, Seonah"
 collection: publications
 category: manuscripts
-permalink: https://www.sciencedirect.com/science/article/pii/S1385894722024597
+permalink: /publication/2022-10-15-paper-title-number-14 
 date: 2022-10-15
 venue: 
-paperurl: 'https://majabed.github.io/jabedlab/files/paper14.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1385894722024597' 
 citation: 'Kim, Yeonjoon;Jabed, Mohammed A.;Price, David M.;Kilin, Dmitri;Kim, Seonah Toward rational design of supported vanadia catalysts of lignin conversion to phenol. <i></i> 2022, 446(),136965-. DOI:https://doi.org/10.1016/j.cej.2022.136965.'
 ---
 
