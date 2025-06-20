@@ -1,0 +1,32 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+  {% assign teaser = site.teaser %}
+{% endif %}
+
+{% if post.id %}
+  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+  {% assign title = post.title %}
+{% endif %}
+
+
+<div ">
+<ul >
+  <li style="margin-top: 5px;">{{ post.title }}
+    <ul style="margin: 0; padding: 0">
+      <li style="list-style-type: None;" ><a href="{{ post.lecture_file }}" target="_blank">Lectures  </a>   
+      <a style="margin-left: 10px;" href="{{ post.catalogue_url }}" target="_blank">Catalogue</a> </li>
+
+    </ul>
+  </li>
+</ul>
+</div>
+
+
+
+
+
+

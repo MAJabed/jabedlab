@@ -1,0 +1,13 @@
+---
+title: "A Machine Learning Model for Predicting Composition of Catalytic Coprocessing Products from Molecular Beam Mass Spectra"
+authors: "Jabed, Mohammed A.;Kim, Yeonjoon;Yarbrough, Clark;Harman-Ware, Anne E.;Olstad, Jessica;Seiser, Reinhard;Paeper, Cheyenne;Starace, Anne K.;Kim, Seonah"
+collection: publications
+category: manuscripts
+permalink: /publication/2023-08-14-paper-title-number-17 
+date: 2023-08-14
+venue: ACS Sustainable Chemistry & Engineering
+paperurl: 'https://doi.org/10.1021/acssuschemeng.3c01821' 
+citation: 'Jabed, Mohammed A.;Kim, Yeonjoon;Yarbrough, Clark;Harman-Ware, Anne E.;Olstad, Jessica;Seiser, Reinhard;Paeper, Cheyenne;Starace, Anne K.;Kim, Seonah A Machine Learning Model for Predicting Composition of Catalytic Coprocessing Products from Molecular Beam Mass Spectra. <i>ACS Sustainable Chemistry & Engineering</i> 2023, 11(32),11912-11923. DOI:10.1021/acssuschemeng.3c01821.'
+---
+
+Demand for the development of an automated and integrated refining process for biofuels has increased in recent years due to the lack of generalized process inspection tools. In bio-oil upgrading processes, all process variables are maintained based on the offline specification of intermediates and products. A lack of real-time product specifications in batch-wise monitoring can cause process failure and wasted resources. Therefore, there is a need for a fast and accurate intermediates/product specification tool that can be used for real-time specification to reduce waste and mitigate the risk of process failure. To address this gap, we developed a machine learning (ML) model for predicting speciated bio-oil composition, including paraffin, iso-paraffins, olefins, naphthene, and aromatics. The model is trained using the mass spectra from upgraded products collected in the vapor phase before condensation and predicts the composition of the condensed product. Training ML models using raw mass spectra is challenging due to numerous overlapped peaks originating from different parent compounds. With this in mind, we propose a protocol that (i) transforms raw mass spectra to chemistry-inspired predefined features and (ii) trains decision tree-based models using these features. Our results show that the random forest model was robust against overfitting and had the highest accuracy compared to other models. Moreover, a stochastic ablation method determined the eight most significant features while maximizing the accuracy. Our protocol facilitates real-time compositional analysis of upgraded bio-oils and thus real-time process monitoring. Additionally, this protocol enables the rational design of efficient catalysts and the determination of optimal process conditions.
