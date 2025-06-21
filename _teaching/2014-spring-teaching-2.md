@@ -1,7 +1,7 @@
 ---
-title: Physical Chemistry - I (CHEM 351)
+title: Physical Chemistry - II (CHEM 352)
 catalogue_url: "https://docs.udc.edu/catalog/2024-2026-UDC-Catalog.pdf"
-lecture_file: "/downloads/organic.zip"
+lecture_file: "/downloads/inorganic.zip"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

@@ -1,5 +1,5 @@
 ---
-title: Physical Chemistry - I (CHEM 351)
+title: General Chemistry - II (Towson University CHEM 132)
 catalogue_url: "https://docs.udc.edu/catalog/2024-2026-UDC-Catalog.pdf"
 lecture_file: "/downloads/organic.zip"
 ---

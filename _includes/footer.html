@@ -1,25 +1,98 @@
 {% include base_path %}
 
 {% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.author.github %}
-      <li><a href="http://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endif %}
-  </ul>
+
+
+ 
+<head>
+  <style>
+    .footer {
+      display: flex;
+      color: white;
+      padding: 2px;
+      font-family: Arial, sans-serif;
+      margin: 0;
+
+    }
+    .footer > div {
+        padding: 5px; 
+        margin: 0;  
+       }
+
+    .footer .left {
+      width: 20%;
+    }
+
+    .footer .middle {
+      width: 40%;
+      font-size: 13px;
+      line-height: 1.2;
+      color: black;
+    }
+
+    .footer .right {
+      width: 40%;
+      font-size: 13px;
+      line-height: 1.2;
+      color: black;
+    }
+
+    .footer img {
+      max-width: 90%;
+      height: auto;
+    }
+    
+    .footer .middle,
+    .footer .right {
+        border-left: 4px double #cd3c1f;
+    }
+
+
+    @media (max-width: 800px) {
+      .footer {
+        flex-direction: column;
+        text-align: center;
+      }
+
+      .footer .left, .footer .middle, .footer .right {
+        width: 100%;
+      }
+     
+      .footer img {
+        max-width: 40%;
+        height: auto;
+      }
+    }
+  </style>
+</head>
+
+
+<body>
+<footer class="footer">
+<div class="left">
+      <img src="/images/UDC_logo.png" alt="Logo">
+ </div>
+ <div class="middle">
+      <h2  style="line-height: 1.1; margin: 0px" >Mohammed A. Jabed, Ph.d.</h2>
+      <p>Assistant Professor of Chemistry<br>
+      Division of Science and Mathematics<br>
+      4200 Connecticut Avenue NW<br>
+      Building 44, Suit 203-04 | Washington, DC 20008<br>
+      {% raw %}
+      <a href="mailto:mohammed.jabed@udc.edu">mohammed.jabed@udc.edu</a>
+      | &#9742; 202.274.7274 
+      {% endraw %}
+      </p>
 </div>
+<div class="right">
+      <h2 style="line-height: 1.1; margin: 0px" >University of the District of Columbia</h2>
+      <p>4200 Connecticut Ave. NW, <br> 
+      Washington, DC 20008<br>
+      <a href="https://udc.edu">udc.edu</a></p> 
+      <p>Phone: 202-274-5000<br> 
+      Public Safety: 202-274-5050</p>
+</div>
+ </footer>
+</body>
 {% endif %}
 
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' %}}
-</div>

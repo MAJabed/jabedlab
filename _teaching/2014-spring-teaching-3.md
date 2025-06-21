@@ -1,5 +1,5 @@
 ---
-title: Physical Chemistry - I (CHEM 351)
+title: Physical Chemistry Cal. - I (CHEM 355)
 catalogue_url: "https://docs.udc.edu/catalog/2024-2026-UDC-Catalog.pdf"
 lecture_file: "/downloads/organic.zip"
 ---
